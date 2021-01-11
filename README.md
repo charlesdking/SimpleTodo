@@ -32,11 +32,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had to manually type the implementation of the androidx.recyclerview in the gradle module app file and some times came across errors where I had to import multiple libraries. I believe to have a good understanding of the RecyclerView and the adapter but would like to get more understanding. The implementation of the long press delete logic did help in that understanding but it was a bit confusing. It was interesting to see the use of the OnLongClickListener interface and seeing how what I was taught in my java courses in FIU are used in mobile development.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Charles King]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
